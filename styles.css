@@ -1,0 +1,72 @@
+.nav {
+  background-color: white;
+}
+#hero {
+  height: 30rem;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  color: black;
+}
+.item {
+  margin: auto;
+  margin-top: 10%;
+}
+.heading {
+  font-size: 4rem;
+}
+.paragraph {
+  margin-top: 20%;
+  font-size: 1.5rem;
+  color: rgb(44, 44, 44);
+}
+svg {
+  width: 3.4rem;
+  margin-left: 18rem;
+}
+.pitem {
+  margin: 10rem 0rem 0rem 5rem;
+}
+.left {
+  margin-top: 15rem;
+}
+.subheading {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+h3 {
+  font-size: 1.2rem;
+  padding: 1.2rem 0rem 2rem 0rem;
+}
+p {
+  font-size: 1rem;
+}
+.projectimg {
+  width: 55rem;
+  height: 30rem;
+}
+.link {
+  margin: 0rem 0rem 5rem 0rem;
+  position: relative;
+  bottom: 5rem;
+  right: 20rem;
+  text-decoration: underline;
+}
+
+hr {
+  margin-top: 5rem;
+  margin-right: 60rem;
+  border: 20px;
+  clear: both;
+  display: block;
+  width: 150%;
+  background-color: rgb(0, 0, 0);
+  height: 1px;
+}
+
+footer {
+  margin-top: 10rem;
+  margin-bottom: 4rem;
+  color: black;
+}
